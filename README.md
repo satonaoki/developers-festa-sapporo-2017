@@ -71,7 +71,7 @@
 
 - https://azure.microsoft.com/ja-jp/overview/data-platform/
 
-### Azure SQL Datanase
+### Azure SQL Database
 
 - https://azure.microsoft.com/ja-jp/services/sql-database/
 
@@ -80,6 +80,8 @@
 - https://azure.microsoft.com/ja-jp/services/mysql/
 
 ### Azure Cosmos DB
+
+- https://azure.microsoft.com/ja-jp/services/cosmos-db/
 
 ## AI (人工知能) / ML (機械学習)
 
