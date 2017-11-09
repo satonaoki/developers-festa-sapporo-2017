@@ -49,10 +49,6 @@
 
 - https://azure.microsoft.com/ja-jp/services/container-instances/
 
-### Azure Container Registry
-
-- https://azure.microsoft.com/ja-jp/services/container-registry/
-
 ### Azure App Service (Web App for Containers)
 
 - https://azure.microsoft.com/ja-jp/services/app-service/
@@ -67,6 +63,10 @@
 
 - https://azure.microsoft.com/ja-jp/services/service-fabric/
 - https://satonaoki.wordpress.com/2017/11/09/mstsjp17-service-fabric/
+
+### Azure Container Registry
+
+- https://azure.microsoft.com/ja-jp/services/container-registry/
 
 ## データベース
 
