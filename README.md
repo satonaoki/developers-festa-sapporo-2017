@@ -54,7 +54,7 @@
 
 - https://azure.microsoft.com/ja-jp/services/app-service/
 - https://azure.microsoft.com/ja-jp/services/app-service/containers/
-
+- https://docs.microsoft.com/ja-jp/azure/app-service/containers/quickstart-custom-docker-image
 
 ### Azure Container Service (AKS)
 
