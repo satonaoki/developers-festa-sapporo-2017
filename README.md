@@ -66,6 +66,7 @@
 ### Azure Service Fabric
 
 - https://azure.microsoft.com/ja-jp/services/service-fabric/
+- https://satonaoki.wordpress.com/2017/11/09/mstsjp17-service-fabric/
 
 ## データベース
 
