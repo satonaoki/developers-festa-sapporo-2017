@@ -114,6 +114,7 @@
 
 - https://azure.microsoft.com/ja-jp/overview/machine-learning/
 - https://azure.microsoft.com/ja-jp/services/machine-learning-services/
+- https://docs.microsoft.com/ja-jp/azure/machine-learning/preview/quickstart-installation
 
 - https://azure.microsoft.com/ja-jp/solutions/architecture/image-classification-with-convolutional-neural-networks/
 - https://azure.microsoft.com/ja-jp/solutions/architecture/information-discovery-with-deep-learning-and-nlp/
