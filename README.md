@@ -1,4 +1,4 @@
-# Developers Festa Sapporo 2017
+# Developers Festa Sapporo 2017 (2017/11/10)
 
 - http://www.devfesta.jp
 - http://www.devfesta.jp/program
@@ -45,7 +45,7 @@
 
 - https://azure.microsoft.com/ja-jp/overview/containers/
 
-### Azure Container Instnces
+### Azure Container Instances
 
 - https://azure.microsoft.com/ja-jp/services/container-instances/
 
