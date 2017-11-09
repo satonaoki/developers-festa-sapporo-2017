@@ -40,6 +40,8 @@
 ### Azure Functions
 
 - https://azure.microsoft.com/ja-jp/services/functions/
+- https://docs.microsoft.com/ja-jp/azure/azure-functions/functions-create-first-azure-function
+- https://azure.microsoft.com/ja-jp/try/app-service/
 
 ## コンテナー
 
@@ -55,6 +57,7 @@
 - https://azure.microsoft.com/ja-jp/services/app-service/
 - https://azure.microsoft.com/ja-jp/services/app-service/containers/
 - https://docs.microsoft.com/ja-jp/azure/app-service/containers/quickstart-custom-docker-image
+- https://azure.microsoft.com/ja-jp/try/app-service/
 
 ### Azure Container Service (AKS)
 
