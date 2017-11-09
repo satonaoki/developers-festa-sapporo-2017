@@ -43,6 +43,14 @@
 - https://docs.microsoft.com/ja-jp/azure/azure-functions/functions-create-first-azure-function
 - https://azure.microsoft.com/ja-jp/try/app-service/
 
+### Azure Logic Apps
+
+- https://azure.microsoft.com/ja-jp/services/logic-apps/
+
+### Azure Event Grid
+
+- https://azure.microsoft.com/ja-jp/services/event-grid/
+
 ## コンテナー
 
 - https://azure.microsoft.com/ja-jp/overview/containers/
