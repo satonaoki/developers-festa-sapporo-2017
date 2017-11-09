@@ -92,6 +92,7 @@
 ### Azure Database for MySQL/PostgreSQL
 
 - https://azure.microsoft.com/ja-jp/services/mysql/
+- https://azure.microsoft.com/ja-jp/services/postgresql/
 - https://satonaoki.wordpress.com/2017/09/07/dbts2017-azure-oss-db/
 
 ### Azure Cosmos DB
