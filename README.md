@@ -79,15 +79,18 @@
 ### Azure Database for MySQL/PostgreSQL
 
 - https://azure.microsoft.com/ja-jp/services/mysql/
+- https://satonaoki.wordpress.com/2017/09/07/dbts2017-azure-oss-db/
 
 ### Azure Cosmos DB
 
 - https://azure.microsoft.com/ja-jp/services/cosmos-db/
+- https://satonaoki.wordpress.com/2017/09/07/dbts2017-azure-oss-db/
 
 ## AI (人工知能) / ML (機械学習)
 
 - https://azure.microsoft.com/ja-jp/overview/ai-platform/
 - https://blogs.technet.microsoft.com/jpai/
+- https://satonaoki.wordpress.com/2017/09/06/aib-microsoft-ai/
 
 ### Microsoft Cognitive Services
 
