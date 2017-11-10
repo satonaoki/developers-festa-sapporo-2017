@@ -1,4 +1,4 @@
-# Developers Festa Sapporo 2017 (2017/11/10)
+# Developers Festa Sapporo 2017 「Microsoft Azure ホット トピックス ～コンテナー、機械学習を中心に～」(2017/11/10)
 
 - http://www.devfesta.jp
 - http://www.devfesta.jp/program
